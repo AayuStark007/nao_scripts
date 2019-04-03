@@ -1,0 +1,6 @@
+*.pyc
+
+naoqi/*
+naoqi/
+.vscode/
+__pycache__/
